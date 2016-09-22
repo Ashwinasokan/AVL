@@ -1,3 +1,3 @@
-# AVL - A case study on AVL Tree - earliest data structure to optimize search by self balancing itself.
-
+# AVL 
+A case study on AVL Trees.
 [Project Report] (https://github.com/Ashwinasokan/AVL/blob/master/report.pdf)
